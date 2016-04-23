@@ -1,0 +1,2 @@
+EXTERN A
+A = A + A

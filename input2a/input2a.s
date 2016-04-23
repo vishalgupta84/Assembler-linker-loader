@@ -1,0 +1,11 @@
+GLOB VAR A =0
+VAR B = 2
+VAR C=3
+LOOP 5
+IF C>B
+A = A + C
+ENDIF
+IF C=B
+A = A - B
+ENDIF
+ENDLOOP
